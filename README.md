@@ -39,8 +39,7 @@ A backend API built with Node.js, MongoDB, and Ethers.js to fetch and expose onc
 1. **Clone & Install**
 
    ```bash
-   git clone https://github.com/your-repo/eigenlayer-api.git
-   cd eigenlayer-api
+   https://github.com/MrinalSingh04/EigenLayer-Restaking-Info-API
    npm install
 
    ```
